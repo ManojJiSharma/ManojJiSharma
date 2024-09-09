@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ManojJiSharm](https://github.com/ManojJiSharm)
 
-- 💬 Ask me about **Blockchain, Substrate, Rust, Scaling solutions Architecture (chainlink, GraphQL, Bitquery), Web3.js, Smart Contracts**
+- 💬 Ask me about **Blockchain, Solana, Ethereum, Substrate, Rust, Scaling solutions Architecture (chainlink, GraphQL, Bitquery), Web3.js, Smart Contracts**
 
 - 📫 How to reach me **manoj.sharma.bit.india@gmail.com**
 
