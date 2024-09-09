@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manoj Sharma</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
-- 🌱 I’m currently learning **Substrate Framework**
+- 🌱 I’m a Rust developer and am currently exploring **Solana and Substrate Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ManojJiSharm](https://github.com/ManojJiSharm)
 
