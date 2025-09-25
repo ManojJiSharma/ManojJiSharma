@@ -60,7 +60,7 @@ Passionate blockchain developer from India with deep expertise in **Rust** and *
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="50" height="50"/>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg)" alt="rust" width="50" height="50"/>
   <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" alt="solana" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
