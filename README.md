@@ -2,7 +2,7 @@
 
 <h3 align="center">🦀 Rust & Solana Blockchain Developer | Building the Decentralized Future</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <br clear="right"/>
 
@@ -63,13 +63,13 @@ Passionate blockchain developer from India with deep expertise in **Rust** and *
 
 <p align="left">
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="50" height="50"/>
+    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="50" height="50"/>
   </a>
   <a href="https://solana.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" alt="solana" width="50" height="50"/>
+    <img src="https://solana.com/_next/static/media/logotype-dark.f79d530d.svg" alt="solana" width="80" height="50"/>
   </a>
   <a href="https://substrate.io" target="_blank" rel="noreferrer">
-    <img src="https://substrate.io/img/sub.svg" alt="substrate" width="50" height="50"/>
+    <img src="https://docs.substrate.io/static/img/sub.svg" alt="substrate" width="50" height="50"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
